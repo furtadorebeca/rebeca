@@ -18,13 +18,13 @@ These are screenshots of 2 workflows: a word analyzer and a news feed analyzer. 
 The word analyzer gets the information entered in a JotForm form: job posting information and candidate resume. It gets this information analyzed by ChatGPT using pre-determined keywords. <br>
 The result is a feedback on how the well aligned the two are and offers suggestions to improve the resume.<br>
 The output is sent to a Google docs file.
-![screenshot](https://github.com/furtadorebeca/rebeca/blob/main/make-word_analysis.jpg)
+![word analyzer](https://github.com/furtadorebeca/rebeca/blob/main/make-word_analysis.jpg)
 
 
-### Feed Analyzer
+### Feed News Analyzer
 The feed analyzer collects new information from pre-determined sources, parses it to HTML, and gets it analyzed by ChatGP.<br>
 The output is sent to a Google docs file.
-![screenshot](https://github.com/furtadorebeca/rebeca/blob/main/make-feed_analysis.jpg)
+![feed news analyzer](https://github.com/furtadorebeca/rebeca/blob/main/make-feed_analysis.jpg)
 
 
 ## Project Management Links
