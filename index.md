@@ -24,7 +24,7 @@ The output is sent to a Google docs file.
 ### Feed News Analyzer
 The feed analyzer collects new information from pre-determined sources, parses it to HTML, and gets it analyzed by ChatGP.<br>
 The output is sent to a Google docs file.
-![feed news analyzer](https://github.com/furtadorebeca/rebeca/blob/main/make-feed_analysis.jpg)
+![feed news analyzer](make-feed_analysis.jpg)
 
 
 ## Project Management Links
