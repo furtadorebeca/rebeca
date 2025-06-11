@@ -12,7 +12,7 @@ The data was sourced from [Luke Barousse's Python Course](https://lukebarousse.c
 
 
 ## Workflows
-These are screenshots of 2 workflows: a word analyzer and a news feed analyzer.
+These are screenshots of 2 workflows: a word analyzer and a news feed analyzer. These workfloes were created in Make.com and the key components are ChatGPT and Google Docs.
 
 ### Word Analyzer
 The word analyzer gets the information entered in a JotForm form: job posting information and candidate resume. It gets this information analyzed by ChatGPT using pre-determined keywords. <br>
