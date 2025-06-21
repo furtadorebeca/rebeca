@@ -40,8 +40,6 @@ The output is sent to a Google Docs file.
 ![feed news analyzer](make-feed_analysis.jpg)
 
 
-
-
 <br>
 <br>
   
