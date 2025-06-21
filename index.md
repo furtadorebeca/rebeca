@@ -1,4 +1,3 @@
-# Rebeca Furtado
 Project Manager | Data Analyst | Python Enthusiast
 
 
